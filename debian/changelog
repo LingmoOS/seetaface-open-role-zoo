@@ -1,0 +1,23 @@
+seetaface-open-role-zoo (1.0.0.3-1+lingmo5u1) unstable; urgency=medium
+
+  * new release for Lingmo OS.
+
+ -- Lingmo OS Team <team@lingmo.org>  Sat, 20 Jun 2026 21:28:00 +0800
+
+seetaface-open-role-zoo (1.0.0.2-1+dde) unstable; urgency=medium
+
+  * Add secure compilation options
+
+ --echengqi <echengqi@uniontech.com>  Mon, 24 Jan 2021 13:17:44 +0800
+
+seetaface-open-role-zoo (1.0.0.1-1+dde) unstable; urgency=medium
+
+  * Fix missing header file
+
+ -- chenlinxuan <chenlinxuan@uniontech.com>  Wed, 08 Dec 2021 15:55:46 +0800
+
+seetaface-open-role-zoo (1.0.0-1) unstable; urgency=medium
+
+  * Initial release
+
+ -- liujianqing <liujianqiang@uniontech.com>  Fri, 03 Dec 2021 17:08:50 +0800
